@@ -2,7 +2,7 @@
 
 **Multi-feature Co-learning for Image Inpainting**
 
-*[Jiayu Lin](linjy@e.gzhu.edu.cn), Yuan-Gen Wang<sup>\*</sup>, Wenzhi Tang, Aifeng Li*.
+*<a href="mailto:linjy@e.gzhu.edu.cn">Jiayu Lin</a>, Yuan-Gen Wang<sup>\*</sup>, Wenzhi Tang, Aifeng Li*.
 
 In ICPR'2022.
 
