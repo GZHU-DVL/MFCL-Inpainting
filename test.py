@@ -29,9 +29,12 @@ if __name__ == "__main__":
 
     opt = TestOptions().parse()
     model = create_model(opt)
+
+    # Load your trained model
     model.netEN.module.load_state_dict(torch.load("")['net'])
     model.netDE.module.load_state_dict(torch.load("")['net'])
     model.netMEDFE.module.load_state_dict(torch.load("")['net'])
+    
     results_dir = r'./results'
     if not os.path.exists(results_dir):
         os.mkdir(results_dir)
