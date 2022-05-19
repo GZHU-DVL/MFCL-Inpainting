@@ -66,3 +66,7 @@ model.netMEDFE.module.load_state_dict(torch.load("")['net'])
 ### License
 
 This source code is made available for research purpose only.
+
+### Acknowledgement
+
+Our code is built upon [**Rethinking-Inpainting-MEDFE**](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE).
